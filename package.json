@@ -1,0 +1,21 @@
+{
+  "name": "mwone-dark",
+  "displayName": "Mwone-dark",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.81.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Mwone",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Mwone-color-theme.json"
+      }
+    ]
+  }
+}
