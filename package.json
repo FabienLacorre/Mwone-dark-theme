@@ -2,8 +2,8 @@
   "name": "mwone-dark",
   "displayName": "Mwone-dark",
   "publisher": "Mwone",
-  "description": "Dark theme for visual studio code",
-  "version": "0.0.1",
+  "description": "Dark theme for visual studio code for TypeScript and React",
+  "version": "0.0.3",
   "engines": {
     "vscode": "^1.81.0"
   },
