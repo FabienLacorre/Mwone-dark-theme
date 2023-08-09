@@ -2,7 +2,7 @@
 
 ## Features
 
-- 🧩 **Language Support**: While optimized for TypeScript.
+- 🧩 **Language Support**: For TypeScript.
 
 - 🛠️ **Customizable**: If you prefer certain colors over the defaults, the theme is easy to customize to suit your personal preferences.
 
