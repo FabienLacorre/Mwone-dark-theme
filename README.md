@@ -1,3 +1,6 @@
+
+[COLOR BLIND FRIENDLY]
+
 # Mwone-dark Theme for Visual Studio Code
 
 ## Features
