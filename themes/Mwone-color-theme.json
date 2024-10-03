@@ -613,7 +613,7 @@
 		"name": "Classes",
 		"scope": "support.class, entity.name.type.class",
 		"settings": {
-		  "foreground": "#59c159"
+		  "foreground": "#ffffff"
 		}
 	  },
 	  {
@@ -729,7 +729,7 @@
 		"name": "Meta tag",
 		"scope": "meta.tag",
 		"settings": {
-		  "foreground": "#ffffff"
+		  "foreground": "#33CCCC"
 		}
 	  },
 	  {
@@ -1956,10 +1956,10 @@
 	  "editorError.foreground": "#dd5050",
 	  "editorError.background": "#B73A3400",
 	  "editorError.border": "#ffffff00",
-	  "editorWarning.foreground": "#ffffff00",
+	  "editorWarning.foreground": "#ffffffff",
 	  "editorWarning.background": "#A9904000",
 	  "editorWarning.border": "#ffffff00",
-	  "editorInfo.foreground": "#ffffff00",
+	  "editorInfo.foreground": "#ffffffff",
 	  "editorInfo.background": "#4490BF00",
 	  "editorInfo.border": "#ffffff00",
 	  "editorGutter.background": "#1b1f23",
